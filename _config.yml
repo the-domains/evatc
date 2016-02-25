@@ -1,0 +1,14 @@
+layout_spectrum: 0.7765958
+typography_spectrum: 0.1361702
+color:
+  saturation: 0.9872341
+  lightness: 0.3361702
+  brandStrength: 0.7170744
+  rhythmicContrast: 0.5829787
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: EvaTC
